@@ -24,7 +24,7 @@ def loop():
        time.sleep(1)      
 
 if __name__ == '__main__':
-   line = "Piper Wave 4 L20"
+   line = " Piper4Partner  "
    screen.enable_backlight()
    screen.clear()
    try:
