@@ -6,7 +6,7 @@ import paho.mqtt.client as mqtt
 
 ###### Edit variables to your environment #######
 broker_address = "test.mosquitto.org"     #MQTT broker_address :192.168.0.31
-Topic = "wave4"
+Topic = "p4p"
 
 Trigger = 16
 Echo = 18
