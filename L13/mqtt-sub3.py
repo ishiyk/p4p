@@ -9,7 +9,7 @@ import redis
 
 #BrokerAddress = "127.0.0.1"              # Local MQTT 
 BrokerAddress = "test.mosquitto.org"    # Cloud MQTT
-MqttTopic = "piper-jp"
+MqttTopic = "p4p"
 
 ###########################################################
 #####  Set constant values for Radis  #####################
