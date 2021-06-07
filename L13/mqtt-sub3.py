@@ -7,8 +7,8 @@ import redis
 ###########################################################
 #####  Set constant values for MQTT broker   ##############
 
-BrokerAddress = "127.0.0.1"              # Local MQTT 
-#BrokerAddress = "test.mosquitto.org"    # Cloud MQTT
+#BrokerAddress = "127.0.0.1"              # Local MQTT 
+BrokerAddress = "test.mosquitto.org"    # Cloud MQTT
 MqttTopic = "piper-jp"
 
 ###########################################################
